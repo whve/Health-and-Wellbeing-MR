@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580552195436.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1977517607",
+    "id" : "5618D76",
+    "lastKnownWriteTime" : 1580551921,
+    "last_content_update" : 1580556651974,
+    "path" : "D:/github/Health-and-Wellbeing-MR/MR-F-statistic/Two-sample MR Base script.R",
+    "project_path" : "Two-sample MR Base script.R",
+    "properties" : {
+        "cursorPosition" : "234,69",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580603528388.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1278094404",
+    "id" : "AA391557",
+    "lastKnownWriteTime" : 1580618123,
+    "last_content_update" : 1580618123163,
+    "path" : "D:/github/Health-and-Wellbeing-MR/MR-F-statistic/c89.R",
+    "project_path" : "c89.R",
+    "properties" : {
+        "cursorPosition" : "58,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

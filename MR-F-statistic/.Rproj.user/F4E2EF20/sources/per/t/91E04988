@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580552160272.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1948546159",
+    "id" : "91E04988",
+    "lastKnownWriteTime" : 1580551921,
+    "last_content_update" : 1580551921,
+    "path" : "D:/github/Health-and-Wellbeing-MR/MR-F-statistic/One-sample MR Script - 3 Run one-sample.R",
+    "project_path" : "One-sample MR Script - 3 Run one-sample.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

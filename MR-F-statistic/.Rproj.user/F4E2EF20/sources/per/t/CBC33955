@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580552243972.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4123429486",
+    "id" : "CBC33955",
+    "lastKnownWriteTime" : 1580563293,
+    "last_content_update" : 1580563293094,
+    "path" : "D:/github/Health-and-Wellbeing-MR/MR-F-statistic/1)执行MR.R",
+    "project_path" : "1)执行MR.R",
+    "properties" : {
+        "cursorPosition" : "66,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
